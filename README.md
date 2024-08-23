@@ -3,6 +3,7 @@
  <h1 align="center">Hi Geeks, I'm Sahan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
+
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
 
@@ -30,18 +31,25 @@
 
 
 ## :chart_with_upwards_trend: Current Stats
+
 </br>
 </div>
 <br />
 <p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahan411&theme=gotham&show_icons=true" alt="shamimsikder"/>
 
+
 <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=sahan411&show_icons=true&theme=gotham"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=sahan411&theme=gotham"/>
 <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 </p>
+
+
+
 
 
 
